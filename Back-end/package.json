@@ -2,9 +2,9 @@
   "name": "fitbot-assistant",
   "version": "1.0.0",
   "type": "module",
-  "main": "Back-end/server.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node Back-end/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
